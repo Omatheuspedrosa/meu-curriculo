@@ -4,7 +4,7 @@ body {
 }
 
 hr {
-    border: 2px solid red;
+    border: 2px solid #d8d8d8;
 }
 
 a {
@@ -24,5 +24,6 @@ button {
 
 .fa-user {
     font-size: 24px;
+    color: #d8d8d8;
 }
 
